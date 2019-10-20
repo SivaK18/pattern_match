@@ -9,13 +9,13 @@ basic verilog program to find if a string is a substring ore not
 * And of course some coffee ;
 
 
-##### To run open terminal from the downloaded directory and type this : 
+### To run open terminal from the downloaded directory and type this : 
 ```bash 
 iverilog -Wall -g2012 -o hello pattern_match.v test.v
 ./hello
 ```
 
-### Credits :: Usha Varshini 
+#### Credits :: Usha Varshini 
 without whom the project wouldn't be here ! 
 
 

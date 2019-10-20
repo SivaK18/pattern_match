@@ -11,7 +11,7 @@ basic verilog program to find if a string is a substring ore not
 
 ##### To run open terminal from the downloaded directory and type this : 
 ```bash 
-iverilog -Wall -g2012 -o hello samp_gcd.v gcd_test.v
+iverilog -Wall -g2012 -o hello pattern.v test.v
 ./hello
 ```
 

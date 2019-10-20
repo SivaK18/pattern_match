@@ -68,7 +68,7 @@ if(x4)
 $display("\n presence detected at position 1 ");
 if(x5)
 $display("\n presence detected at position 0 ");
-else
+else if(x==0)
 $display("no match");
 $display("\n****************************************\n");
 $finish;

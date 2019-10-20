@@ -8,6 +8,8 @@ basic verilog program to find if a string is a substring ore not
 * patience - a lot ! 
 * And of course some coffee ;
 
+
+##### To run open terminal from the downloaded directory and type this : 
 ```bash 
 iverilog -Wall -g2012 -o hello samp_gcd.v gcd_test.v
 ./hello

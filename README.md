@@ -5,8 +5,8 @@ basic verilog program to find if a string is a substring ore not
 
 ### Requirements  
 1.iverilog - get it from https://github.com/steveicarus/iverilog
-2.patience - a lot ! 
-3.And of course some coffee ;
+1.patience - a lot ! 
+1.And of course some coffee ;
 
 ```bash 
 iverilog -Wall -g2012 -o hello samp_gcd.v gcd_test.v
